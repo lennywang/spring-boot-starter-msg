@@ -1,0 +1,4 @@
+com\secbro\msg\MsgAutoConfiguration.class
+com\secbro\msg\MsgService.class
+com\secbro\utils\HttpClientUtils.class
+com\secbro\msg\MsgProperties.class
